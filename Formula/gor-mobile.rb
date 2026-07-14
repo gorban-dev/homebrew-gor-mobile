@@ -1,9 +1,9 @@
 class GorMobile < Formula
   desc     "Android-aware overlay installer for Claude Code — superpowers-style workflow"
   homepage "https://github.com/gorban-dev/gor-mobile"
-  url      "https://github.com/gorban-dev/gor-mobile/archive/refs/tags/v0.3.0.tar.gz"
-  sha256   "76e57c0dcb0ee2851bd194930d7659bd4ca2de50737196b792bdb9f0de20a8dc"
-  version  "0.3.0"
+  url      "https://github.com/gorban-dev/gor-mobile/archive/refs/tags/v0.3.1.tar.gz"
+  sha256   "e97081b96a718db9ba3c97940de562a80a96f843e835789f272eae24b89872b4"
+  version  "0.3.1"
   license  "MIT"
 
   depends_on "git"
